@@ -1,1 +1,9 @@
 # OperatingPlatforms
+  
+                                        The Gaming Room
+             Our client, The Gaming Room wanted to make their game, Draw It or Lose It, available to be used across multiple platforms. They had a game which involved pictures, multiplayer against others on a network, and to be able to play in teams. 
+             I believe I did well in developing the Evaluation portion of this document.
+             When developing the code, the design document helps lay out everything from a UML Diagram and also including the problems a developer may face when developing this project so that one can be informed what to be cautious of.
+             I would have liked to revise the Reccomendations portion of this document because I feel like I did not do as well as I thought when submitting this assignment. I could have been more detailed or elaborated on what my professor suggested. 
+             It is essential to prioritize the users needs because that is who is going to use your program in the end. The user experience is what is going to determine if your software is a success or a flop. In this project we made sure to put things in perspective such as the speed, memory management, and ability of the game to adapt to the requirements of the client to make the game as functionable and enjoyable as possible.
+             to design software for something in the future more efficiently, i believe using a operating system that works best for the project that we have to create will help. This project required us to compare and contrast the operating systems to see what would be the best one for this client and this software. In the future also using this technique would be good so that we create something using the best resources. Even if that means considering to use a cloud based system next time. 
